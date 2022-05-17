@@ -1,4 +1,3 @@
-<script type="text/javascript">
 function clickEffect() {
   let balls = [];
   let longPressed = false;
@@ -133,4 +132,3 @@ function clickEffect() {
   }
 }
 clickEffect();//调用
-</script>
